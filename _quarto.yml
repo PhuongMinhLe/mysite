@@ -2,19 +2,31 @@ project:
   type: website
   output-dir: docs
 
+
+
 website:
-  title: "mysite"
+  title: "Le Minh Phuong"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: About
+      - href: Research.qmd
+        text: Research
+      - text: "Curriculum Vitae"
+        href: cv/phuongcv.pdf
+      
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty   # minty or flatly
+      dark: sketchy   # slate
     css: styles.css
     toc: true
 
 editor: visual
+
+
 

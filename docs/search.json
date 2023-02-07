@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Le Minh Phuong",
+    "section": "",
+    "text": "About me\nI am a Vietnamese fourth year PhD student in development economics at the Université Paris-1 Panthéon-Sorbonne, under the supervision of Mohamed Ali Marouani ; and a part-time Attaché Temporaire d’Enseignement et de Recherche (ATER) at IEDES (Paris-1).\n\nMy research interests lie in the areas of inequality, crises, and firms productivity. I am passionate about understanding the economic dynamics that shape the livelihoods of individuals and communities, and strive to contribute to the development of policies that foster inclusive growth and reduce poverty.\nThrough my research, I aim to generate new insights and knowledge that can inform policy-making and improve the well-being of people in developing countries. Thank you for visiting my page and I hope you find my research and experiences informative\n\n\nResearch Interests\n\nInequality\nCrises (Covid, Tunisian Revolution)\nFirms’ productivity\n\n\n\nEducation\nPanthéon-Sorbonne University                            Paris, France  \nPhD in Economics                                                    2019 -  \nAdvisor: Mohamed Ali Marouani\nDissertation : “Exploring the Interplay of Productivity and Inequality in times of Crises: The Cases of Tunisia and Vietnam”\nPanthéon-Sorbonne University                            Paris, France  \nMaster 2                                                                  2016 - 2017"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Le Minh Phuong",
+    "section": "",
+    "text": "Welcome to my personal page!\n\nI am a Vietnamese fourth year PhD student in development economics at the Université Paris-1 Panthéon-Sorbonne, under the supervision of Mohamed Ali Marouani ; and a part-time Attaché Temporaire enshrinement et de Recherche (ATER) at IEDES (Paris-1).\n\nMy research interests lie in the areas of inequality, crises, and firms productivity – with a focus on Tunisia and Vietnam. I am passionate about understanding the economic dynamics that shape the livelihoods of individuals and communities, and strive to contribute to the development of policies that foster inclusive growth and reduce poverty.\nThrough my research, I aim to generate new insights and knowledge that can inform policy-making and improve the well-being of people in developing countries. Thank you for visiting my page and I hope you find my research and experiences informative."
+  },
+  {
+    "objectID": "indexbis.html",
+    "href": "indexbis.html",
+    "title": "Le Minh Phuong",
+    "section": "",
+    "text": "---\ntitle: \"Le Minh Phuong\"\nimage: img_Phuong.jpg\nabout: \n  template: trestles\n  image-shape: rounded\n  image-width: 15em\n  links:\n   - icon: envelope-fill\n     text: Contact\n     href: mailto:Minh-Phuong.Le@etu.univ-paris1.fr\n   - icon: mortarboard-fill\n     text: CV\n   - icon: linkedin\n     href: https://vn.linkedin.com/in/phuong-minh-le-b7042b105\n   - icon: twitter\n     href: https://twitter.com/florelmp\n---\n\nWelcome to my personal page!\n\nI am a Vietnamese fourth year PhD student in development economics at the Université Paris-1 Panthéon-Sorbonne, under the supervision of Mohamed Ali Marouani ; and a part-time Attaché Temporaire enshrinement et de Recherche (ATER) at IEDES (Paris-1).\n\nMy research interests lie in the areas of inequality, crises, and firms productivity – with a focus on Tunisia and Vietnam. I am passionate about understanding the economic dynamics that shape the livelihoods of individuals and communities, and strive to contribute to the development of policies that foster inclusive growth and reduce poverty.\nThrough my research, I aim to generate new insights and knowledge that can inform policy-making and improve the well-being of people in developing countries. Thank you for visiting my page and I hope you find my research and experiences informative."
+  },
+  {
+    "objectID": "indextest.html",
+    "href": "indextest.html",
+    "title": "Le Minh Phuong",
+    "section": "",
+    "text": "Welcome to my personal page!\nI am a Vietnamese fourth year PhD student in development economics at the Université Paris-1 Panthéon-Sorbonne, under the supervision of Mohamed Ali Marouani ; and a part-time Attaché Temporaire enshrinement et de Recherche (ATER) at IEDES (Paris-1).\nMy research interests lie in the areas of inequality, crises, and firms productivity – with a focus on Tunisia and Vietnam. I am passionate about understanding the economic dynamics that shape the livelihoods of individuals and communities, and strive to contribute to the development of policies that foster inclusive growth and reduce poverty. Through my research, I aim to generate new insights and knowledge that can inform policy-making and improve the well-being of people in developing countries. Thank you for visiting my page and I hope you find my research and experiences informative."
+  },
+  {
+    "objectID": "Research.html#working-papers",
+    "href": "Research.html#working-papers",
+    "title": "Le Minh Phuong",
+    "section": "Working papers",
+    "text": "Working papers\n\n2022\n\nMohamed Ali Marouani, Phuong Le Minh and Nidhal Ben Cheikh. “Do Social Protection Programs Improve Health Related Outcomes of the Poor in Tunisia ?”, ERF Working Papers Series. (Link)\n\n\n\n2020\n\nMohamed Ali Marouani, Phuong Le Minh and M Marshalian. “Jobs, earnings, and routine-task occupational change in times of revolution: the Tunisian perspective”, WIDER Working Paper 2020/171. (Link)"
+  },
+  {
+    "objectID": "Research.html#conferences",
+    "href": "Research.html#conferences",
+    "title": "Le Minh Phuong",
+    "section": "Conferences",
+    "text": "Conferences"
+  }
+]

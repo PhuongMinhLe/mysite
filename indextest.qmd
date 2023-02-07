@@ -1,0 +1,26 @@
+---
+title: "Le Minh Phuong"
+image: img_Phuong.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+   - icon: envelope-fill
+     text: Contact
+     href: mailto:Minh-Phuong.Le@etu.univ-paris1.fr
+   - icon: mortarboard-fill
+     text: CV
+   - icon: linkedin
+     href: https://vn.linkedin.com/in/phuong-minh-le-b7042b105
+   - icon: twitter
+     href: https://twitter.com/florelmp
+---
+
+Welcome to my personal page!
+
+I am a Vietnamese fourth year PhD student in development economics at the Université Paris-1 Panthéon-Sorbonne, under the supervision of Mohamed Ali Marouani ; and a part-time Attaché Temporaire enshrinement et de Recherche (ATER) at IEDES (Paris-1).
+
+My research interests lie in the areas of inequality, crises, and firms productivity – with a focus on Tunisia and Vietnam. I am passionate about understanding the economic dynamics that shape the livelihoods of individuals and communities, and strive to contribute to the development of policies that foster inclusive growth and reduce poverty.
+Through my research, I aim to generate new insights and knowledge that can inform policy-making and improve the well-being of people in developing countries. Thank you for visiting my page and I hope you find my research and experiences informative.
+---
