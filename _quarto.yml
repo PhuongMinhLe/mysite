@@ -16,7 +16,7 @@ website:
       - href: Research.qmd
         text: Research
       - text: "Curriculum Vitae"
-        href: cv/phuongcv.pdf
+        href: cv/CV_PhuongLE.pdf
       
 format:
   html:
