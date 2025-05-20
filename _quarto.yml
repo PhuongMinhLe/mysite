@@ -11,12 +11,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: Research.qmd
+      - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - text: "Curriculum Vitae"
-        href: cv/CV_PhuongLE.pdf
+        href: CV_PhuongLE.pdf
       
 format:
   html:

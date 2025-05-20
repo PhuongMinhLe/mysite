@@ -1,0 +1,69 @@
+### **Quantitative analysis: Inference, causality, rationality**
+
+Academic years: 2022-2023, 2023-2024
+
+Number of students enrolled: 22
+
+Type of student taking the class: first year Master students in various social sciences
+
+Course meeting times: 21 hours (3 hours per week)
+
+Evaluation : final exam
+
+Course description: This course covers probability, regression, basic causal inference and an introduction to instrumental variables. Upon completing this course, student should be able to describe the data, numerically and graphically, read and interpret quantitative articles, know how to use observational data to make causal inference.
+
+### **Measures of development (Tutorials)**
+
+Academic years: 2022-2023, 2023-2024
+
+Number of students enrolled: 40 students (2 classes)
+
+Type of student taking the class: first year Master students in various social sciences
+
+Course meeting times: 6 hours (2 hours per week)
+
+Evaluation: take-home assignment
+
+Course description: These tutorial sections complement the Measures of Development course by providing students with take-home assignments focused on measuring poverty, employment, and inequality, which are then corrected and discussed in class. Assignments typically include academic papers for reading and exercises involving the calculation of relevant indices.
+
+### **Inequality, Vulnerability and Risk management**
+
+Academic years: 2023-2024
+
+Number of students enrolled: 25 students
+
+Type of student taking the class: second year Master students in Economics
+
+Course meeting times: 18 hours (3 hours per week)
+
+Evaluation: group presentation on selected papers
+
+Course description: This course delves into the concept of risk, its sources, and the ways individuals and societies measure and manage the risks they face. It introduces students to foundational theories such as expected utility theory, Pareto-efficient risk allocation, prospect theory and to applications of risk-sharing models. 
+
+### **Impact evaluation (co-teaching)**
+
+Academic years: 2024-2025
+
+Number of students enrolled: 19 students
+
+Type of student taking the class: second year Master students in Economics
+
+Course meeting times: 15 hours of lectures (3 hours per week) + 12 hours of Stata tutorials (3 hours per week)
+
+Evaluation: final exam (60%) + take-home assignment on Stata (40%)
+
+Course description: This course covers advanced causal inference methods, including panel data models, difference-in-differences, regression discontinuity design, synthetic control, and matching methods. The course is also accompanied by take-home assignments and guided tutorials, providing students with opportunities to practice programming skills with Stata. My teaching responsibilities include 6 hours of lectures on panel data methods and 6 hours of Stata tutorials.
+
+### **Data collection and analysis (co-teaching)**
+
+Academic years: 2024-2025
+
+Number of students enrolled: 19 students
+
+Type of student taking the class: second year Master students in Economics
+
+Course meeting times: 18 hours (3 hours per week)
+
+Evaluation: group project on paper replication using R
+
+Course description: This course covers the topic of data collection from the internet and surveys, as well as data analysis techniques that go beyond standard continuous variables and least squares methods. Among the topics addressed are maximum likelihood estimation, generalized linear models, multivariate analysis, and survey designs. The course also includes programming exercises in R and Stata. My teaching responsibilities consist of 12 hours dedicated to maximum likelihood estimation and generalized linear models.

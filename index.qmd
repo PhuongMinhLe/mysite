@@ -10,16 +10,15 @@ about:
   links:
    - icon: envelope-fill
      text: Contact
-     href: mailto:Minh-Phuong.Le@etu.univ-paris1.fr
+     href: mailto:Minh-Phuong.Le@univ-paris1.fr
    - icon: linkedin
      href: https://vn.linkedin.com/in/phuong-minh-le-b7042b105
-   - icon: twitter
-     href: https://twitter.com/florelmp
+   - icon: google scholar
+     href: https://scholar.google.com/citations?user=8zQOwAkAAAAJ&hl=en
 ---
 
-Welcome to my personal page!\
-\
-LE Minh Phuong holds a Ph.D. in Economics from Paris 1 Panthéon-Sorbonne University, where she is currently an associate researcher. Her research focuses on firm and inequalities in developing countries, with particular attention to how crises impact these areas and the effect of government intervention following these crises. She designs survey tools and analyzes large panel datasets to uncover patterns and causal relationships within these contexts. 
+I am an applied economist specialized in public policy evaluation, labor markets, firm, and climate shocks. I work primarily with R and Stata for data analysis and econometric modeling.
 
-\
-\
+My current research focuses on the changing nature of work and the impacts of climate shocks on labor markets in developing countries. I am particularly interested in how the demand for tasks and skills evolves over time, and how this transformation is shaped by structural factors such as education, technological change, and trade.
+
+A second line of studies explores how climate variability and extreme weather events affect labor mobility and employment trajectories. I aim to understand how individuals and households adapt to environmental shocks, and how these responses vary across different socioeconomic contexts.\
