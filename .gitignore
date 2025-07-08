@@ -5,3 +5,5 @@
 .DS_Store
 
 /.quarto/
+.quarto/_freeze/
+site_libs/
