@@ -8,5 +8,5 @@
 # Quarto working caches (keep the site copy!)
 /.quarto/
 /.quarto/_freeze/
-/site_libs/          # leading slash = only top-level
-docs/site_libs/     # keep the published copy
+/site_libs/          # top-level only
+!docs/site_libs/     # negate: keep everything under docs/
