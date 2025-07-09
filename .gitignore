@@ -9,4 +9,4 @@
 /.quarto/
 /.quarto/_freeze/
 /site_libs/          # leading slash = only top-level
-!docs/site_libs/     # keep the published copy
+docs/site_libs/     # keep the published copy
