@@ -1,7 +1,12 @@
+# RStudio/user caches
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
 .DS_Store
 
+# Quarto working caches (keep the site copy!)
 /.quarto/
+/.quarto/_freeze/
+/site_libs/          # top-level only
+!docs/site_libs/     # negate: keep everything under docs/
