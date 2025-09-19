@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
-
 website:
   title: "Le Minh Phuong"
   navbar:
@@ -17,16 +15,13 @@ website:
         text: Teaching
       - text: "Curriculum Vitae"
         href: CV_PhuongLE.pdf
-      
+
 format:
   html:
-    theme: 
+    theme:
       light: minty   # minty or flatly
-      dark: sketchy   # slate
+      dark: sketchy  # slate
     css: styles.css
     toc: true
 
 editor: visual
-
-
-

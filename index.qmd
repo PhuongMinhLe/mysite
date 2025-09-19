@@ -1,5 +1,3 @@
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAABit09LAAAAQUlEQVR42mNgIBdkF5b+B2GiFOFVjK4Iq2JcilAUE1IEV/yfSMAwFABJviakCO5rfIoxggabYpzhh6yYYCBTHBMAs1jacRPuSTQAAAAASUVORK5CYII=){alt=""}
-
 ---
 title: "Le Minh Phuong"
 image: img_Phuong.jpg
@@ -16,6 +14,8 @@ about:
    - icon: google scholar
      href: https://scholar.google.com/citations?user=8zQOwAkAAAAJ&hl=en
 ---
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAABit09LAAAAQUlEQVR42mNgIBdkF5b+B2GiFOFVjK4Iq2JcilAUE1IEV/yfSMAwFABJviakCO5rfIoxggabYpzhh6yYYCBTHBMAs1jacRPuSTQAAAAASUVORK5CYII=){alt=""}
 
 I am an applied economist specialized in public policy evaluation, labor markets, firm, and climate shocks. I work primarily with R and Stata for data analysis and econometric modeling.
 
