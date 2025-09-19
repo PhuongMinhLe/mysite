@@ -1,0 +1,24 @@
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAABit09LAAAAQUlEQVR42mNgIBdkF5b+B2GiFOFVjK4Iq2JcilAUE1IEV/yfSMAwFABJviakCO5rfIoxggabYpzhh6yYYCBTHBMAs1jacRPuSTQAAAAASUVORK5CYII=){alt=""}
+
+---
+title: "Le Minh Phuong"
+image: img_Phuong.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+   - icon: envelope-fill
+     text: Contact
+     href: mailto:Minh-Phuong.Le@univ-paris1.fr
+   - icon: linkedin
+     href: https://vn.linkedin.com/in/phuong-minh-le-b7042b105
+   - icon: google scholar
+     href: https://scholar.google.com/citations?user=8zQOwAkAAAAJ&hl=en
+---
+
+I am an applied economist specialized in public policy evaluation, labor markets, firm, and climate shocks. I work primarily with R and Stata for data analysis and econometric modeling.
+
+My current research focuses on the changing nature of work and the impacts of climate shocks on labor markets in developing countries. I am particularly interested in how the demand for tasks and skills evolves over time, and how this transformation is shaped by structural factors such as education, technological change, and trade.
+
+A second line of studies explores how climate variability and extreme weather events affect labor mobility and employment trajectories. I aim to understand how individuals and households adapt to environmental shocks, and how these responses vary across different socioeconomic contexts.\
