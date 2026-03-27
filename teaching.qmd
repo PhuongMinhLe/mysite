@@ -4,31 +4,39 @@ Since 2022, I have been teaching Master's-level courses as a non-tenured teachin
 
 ### Methodology Courses
 
-**Applied Microeconometrics** — Lecture (M2, LERN), 2025–2026\
-*20 hours · Assessment: final exam*\
+**Applied Microeconometrics** — Lecture (M2, LERN)\
+*2025–2026 · 5 students · 20 hours  *\
+Assessment: final exam \
 Covers causal inference methods from both a theoretical and applied perspective, including randomization, matching, difference-in-differences, and regression discontinuity, with practical sessions in R.
 
-**Impact Evaluation** — Lecture & Tutorial (M2, IEDES), 2024–2025\
-*19 students · 15h lectures + 12h Stata tutorials · Assessment: final exam (60%) + Stata assignment (40%) · co-teaching*\
+**Impact Evaluation** — Lecture & Tutorial (M2, IEDES)\
+*2024–2025 · 19 students · 15h lectures + 12h tutorials *\
+Assessment: final exam (60%) + Stata assignment (40%)\
 Covers advanced causal inference methods including panel data models, difference-in-differences, regression discontinuity, synthetic control, and matching, with practical sessions in Stata. I taught 6 hours of lectures on panel data methods and 6 hours of Stata tutorials.
 
-**Data Collection and Analysis** — Lecture (M2, IEDES), 2024–2025\
-*19 students · 18 hours · Assessment: group project on paper replication in R · co-teaching*\
+**Data Collection and Analysis** — Lecture (M2, IEDES)\
+*2024–2025 · 19 students · 18 hours*\
+Assessment: group project on paper replication in R\
 Covers data collection and estimation methods beyond standard linear models, including maximum likelihood, generalized linear models, multivariate analysis, and survey methods, with applications in R and Stata. I taught 12 hours on maximum likelihood estimation and generalized linear models.
 
-**Quantitative Analysis: Inference, Causality and Rationality** — Lecture & Tutorial (M1, IEDES), 2022–2023, 2023–2024\
-*22 students · 21 hours · Assessment: final exam*\
+**Quantitative Analysis: Inference, Causality and Rationality** — Lecture & Tutorial (M1, IEDES)\
+*2022–2024 · 22 students · 21 hours*\
+Assessment: final exam
 Introduces economists and non-economists to quantitative methods in social sciences, covering probability, descriptive statistics, linear regression, and instrumental variables. Upon completing this course, students are able to describe data numerically and graphically, read and interpret quantitative articles, and use observational data for causal inference.
 
-**Supervised Project** — Lecture (M1, IEDES), 2022–2023\
+**Supervised Project** — Lecture (M1, IEDES)\
+*2022–2023 · 8 students · 18 hours*\
+Assessment: take-home assignment and presentation\
 Introduces students to the research process in economics, guiding them through the critical reading and methodological replication of academic papers, with hands-on practice in R and Stata.
 
 ### Thematic Courses
 
-**Development Measurement** — Tutorial (M1, IEDES), 2022–2023, 2023–2024\
-*40 students (2 classes) · 6 hours · Assessment: take-home assignment*\
+**Development Measurement** — Tutorial (M1, IEDES)\
+*2022–2024 · 40 students · 6 hours *\
+Assessment: take-home assignment and presentation\
 Complements the Development Measurement lecture through graded assignments on poverty, employment, and inequality measurement. Sessions combine critical reading of academic articles, computation and interpretation of indicators, and in-class presentations and discussions.
 
-**Inequality, Vulnerability and Risk Management** — Lecture (M2, IEDES), 2023–2024\
-*25 students · 18 hours · Assessment: group presentation on selected papers*\
+**Inequality, Vulnerability and Risk Management** — Lecture (M2, IEDES)\
+*2023–2024 · 25 students · 18 hours*\
+Assessment: group presentation on selected papers\
 Explores the concept of risk, its sources, and management strategies. Introduces theoretical frameworks including expected utility theory, Pareto optimality, prospect theory, and risk-sharing models.
