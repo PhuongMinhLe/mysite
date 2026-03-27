@@ -10,3 +10,5 @@
 /.quarto/_freeze/
 /site_libs/          # top-level only
 !docs/site_libs/     # negate: keep everything under docs/
+
+**/*.quarto_ipynb

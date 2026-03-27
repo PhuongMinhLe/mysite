@@ -1,91 +1,34 @@
-## Teaching experience
+## Teaching Experience
 
-Since 2022, I have been teaching Master's-level courses at the Sorbonne Institute for Development Studies (IEDES). These cover topics such as econometrics, impact evaluation, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
+Since 2022, I have been teaching Master's-level courses as an ATER and visiting lecturer (*vacataire*) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and the University of Rouen Normandy. Topics cover econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
 
-### **Topics in Applied Microeconometrics**
+### Methodology Courses
 
-University of Rouen Normandy
+**Applied Microeconometrics** — Lecture (M2, LERN), 2025–2026\
+*20 hours · Assessment: final exam*\
+Covers causal inference methods from both a theoretical and applied perspective, including randomization, matching, difference-in-differences, and regression discontinuity, with practical sessions in R.
 
-Academic year: 2025-2026
+**Impact Evaluation** — Lecture & Tutorial (M2, IEDES), 2024–2025\
+*19 students · 15h lectures + 12h Stata tutorials · Assessment: final exam (60%) + Stata assignment (40%) · co-teaching*\
+Covers advanced causal inference methods including panel data models, difference-in-differences, regression discontinuity, synthetic control, and matching, with practical sessions in Stata. I taught 6 hours of lectures on panel data methods and 6 hours of Stata tutorials.
 
-Course meeting times : 20 hours
+**Data Collection and Analysis** — Lecture (M2, IEDES), 2024–2025\
+*19 students · 18 hours · Assessment: group project on paper replication in R · co-teaching*\
+Covers data collection and estimation methods beyond standard linear models, including maximum likelihood, generalized linear models, multivariate analysis, and survey methods, with applications in R and Stata. I taught 12 hours on maximum likelihood estimation and generalized linear models.
 
-Evaluation: final exam
+**Quantitative Analysis: Inference, Causality and Rationality** — Lecture & Tutorial (M1, IEDES), 2022–2023, 2023–2024\
+*22 students · 21 hours · Assessment: final exam*\
+Introduces economists and non-economists to quantitative methods in social sciences, covering probability, descriptive statistics, linear regression, and instrumental variables. Upon completing this course, students are able to describe data numerically and graphically, read and interpret quantitative articles, and use observational data for causal inference.
 
-Chapter 1:
+**Supervised Project** — Lecture (M1, IEDES), 2022–2023\
+Introduces students to the research process in economics, guiding them through the critical reading and methodological replication of academic papers, with hands-on practice in R and Stata.
 
-[Slides](https://www.dropbox.com/scl/fi/r4z03t99e5orbkwljotqy/chapter1.pdf?rlkey=fxlenlvda7hax1a3rb63ffgb9&st=4fkhpjxk&dl=0)
+### Thematic Courses
 
-[Example](https://www.dropbox.com/scl/fi/sxeni10k3tphmur3qoz0a/example1.xlsx?rlkey=kw54mh6yj75sgv9qkiv1zcfjh&st=f82f11ty&dl=0)
+**Development Measurement** — Tutorial (M1, IEDES), 2022–2023, 2023–2024\
+*40 students (2 classes) · 6 hours · Assessment: take-home assignment*\
+Complements the Development Measurement lecture through graded assignments on poverty, employment, and inequality measurement. Sessions combine critical reading of academic articles, computation and interpretation of indicators, and in-class presentations and discussions.
 
-[Codes](https://www.dropbox.com/scl/fi/5q187eb51cv7vt6kihw73/Notebook1_random_inf.Rmd?rlkey=4ge8qt8r95i5n81nfrr3w63pg&st=j3xg5pro&dl=0)
-
-### **Quantitative analysis: Inference, causality, rationality**
-
-Academic years: 2022-2023, 2023-2024
-
-Number of students enrolled: 22
-
-Type of student taking the class: first year Master students in various social sciences
-
-Course meeting times: 21 hours (3 hours per week)
-
-Evaluation : final exam
-
-Course description: This course covers probability, regression, basic causal inference and an introduction to instrumental variables. Upon completing this course, student should be able to describe the data, numerically and graphically, read and interpret quantitative articles, know how to use observational data to make causal inference.
-
-### **Measures of development (Tutorials)**
-
-Academic years: 2022-2023, 2023-2024
-
-Number of students enrolled: 40 students (2 classes)
-
-Type of student taking the class: first year Master students in various social sciences
-
-Course meeting times: 6 hours (2 hours per week)
-
-Evaluation: take-home assignment
-
-Course description: These tutorial sections complement the Measures of Development course by providing students with take-home assignments focused on measuring poverty, employment, and inequality, which are then corrected and discussed in class. Assignments typically include academic papers for reading and exercises involving the calculation of relevant indices.
-
-### **Inequality, Vulnerability and Risk management**
-
-Academic years: 2023-2024
-
-Number of students enrolled: 25 students
-
-Type of student taking the class: second year Master students in Economics
-
-Course meeting times: 18 hours (3 hours per week)
-
-Evaluation: group presentation on selected papers
-
-Course description: This course delves into the concept of risk, its sources, and the ways individuals and societies measure and manage the risks they face. It introduces students to foundational theories such as expected utility theory, Pareto-efficient risk allocation, prospect theory and to applications of risk-sharing models.
-
-### **Impact evaluation (co-teaching)**
-
-Academic years: 2024-2025
-
-Number of students enrolled: 19 students
-
-Type of student taking the class: second year Master students in Economics
-
-Course meeting times: 15 hours of lectures (3 hours per week) + 12 hours of Stata tutorials (3 hours per week)
-
-Evaluation: final exam (60%) + take-home assignment on Stata (40%)
-
-Course description: This course covers advanced causal inference methods, including panel data models, difference-in-differences, regression discontinuity design, synthetic control, and matching methods. The course is also accompanied by take-home assignments and guided tutorials, providing students with opportunities to practice programming skills with Stata. My teaching responsibilities include 6 hours of lectures on panel data methods and 6 hours of Stata tutorials.
-
-### **Data collection and analysis (co-teaching)**
-
-Academic years: 2024-2025
-
-Number of students enrolled: 19 students
-
-Type of student taking the class: second year Master students in Economics
-
-Course meeting times: 18 hours (3 hours per week)
-
-Evaluation: group project on paper replication using R
-
-Course description: This course covers the topic of data collection from the internet and surveys, as well as data analysis techniques that go beyond standard continuous variables and least squares methods. Among the topics addressed are maximum likelihood estimation, generalized linear models, multivariate analysis, and survey designs. The course also includes programming exercises in R and Stata. My teaching responsibilities consist of 12 hours dedicated to maximum likelihood estimation and generalized linear models.
+**Inequality, Vulnerability and Risk Management** — Lecture (M2, IEDES), 2023–2024\
+*25 students · 18 hours · Assessment: group presentation on selected papers*\
+Explores the concept of risk, its sources, and management strategies. Introduces theoretical frameworks including expected utility theory, Pareto optimality, prospect theory, and risk-sharing models.
