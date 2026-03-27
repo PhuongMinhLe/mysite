@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,18 +32,19 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b651517ce65839d647a86e2780455cfb.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-aab4890235fcc168c4da85bc8f7b2891.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-55723ca7f0da534a620aaa54207846a7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-aab4890235fcc168c4da85bc8f7b2891.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-69618106cd3aa008a5d3956ae0f14b2d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-322c5221647d5b4f94511bbaa436529f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-69618106cd3aa008a5d3956ae0f14b2d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -245,6 +246,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Le Minh Phuong</span>
     </a>
@@ -288,9 +291,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
-  <li><a href="#works-in-progress" id="toc-works-in-progress" class="nav-link" data-scroll-target="#works-in-progress">Works in progress</a></li>
-  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences">Conferences</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a>
+  <ul class="collapse">
+  <li><a href="#peer-reviewed-journal-articles" id="toc-peer-reviewed-journal-articles" class="nav-link" data-scroll-target="#peer-reviewed-journal-articles">Peer-reviewed journal articles</a></li>
+  <li><a href="#book-chapter" id="toc-book-chapter" class="nav-link" data-scroll-target="#book-chapter">Book chapter</a></li>
+  </ul></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a></li>
+  <li><a href="#seminars-and-conferences" id="toc-seminars-and-conferences" class="nav-link" data-scroll-target="#seminars-and-conferences">Seminars and Conferences</a></li>
   </ul>
 </nav>
     </div>
@@ -303,32 +310,38 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<ul>
-<li><p>Minh-Phuong Le, Lisa Chauvet &amp; Mohamed Ali Marouani (2024). “<em>The Great Lockdown and the Small Business: How did the Covid-19 crisis affect Tunisian SMEs?</em>”. World Development (Vol. 182). Article 106673. (<a href="https://doi.org/10.1016/j.worlddev.2024.106673">Link</a>)</p></li>
-<li><p>Minh-Phuong Le, Mohamed Ali Marouani &amp; Michelle Marshalian (2023). “<em>Tunisia: employment and inequality trends</em>”, in Gradín, C., Lewandowski, P., Schotte, S., Sen, K. (Eds.), <em>Tasks, Skills, and Institutions: The Changing Nature of Work and Inequality</em>. Oxford University Press. WIDER Studies in Development Economics. (<a href="10.1093/oso/9780192872241.001.0001">Link</a>)</p></li>
-<li><p>Mohamed Ali Marouani, Minh-Phuong Le &amp; Nidhal Ben Cheikh (2022). “<em>Do Social Protection Programs Improve Health Related Outcomes of the Poor in Tunisia?</em>” <em>Economic Research Forum Working Papers</em> (No.&nbsp;1579). (<a href="https://erf.org.eg/app/uploads/2022/09/1663594556_997_445362_1579.pdf">Link</a>)</p></li>
-<li><p>Minh-Phuong Le &amp; Mohamed Ali Marouani (2021). “<em>Le fardeau des travailleurs vulnérables dans les pays en développement: une évaluation des effets du confinement en Tunisie</em>”. <em>Revue d’économie du développement</em>, Vol. 29, pp.&nbsp;85–110. DOI: 10.3917/edd.351.0085. (<a href="https://www.cairn.info/revue-d-economie-du-developpement-2021-1-page-85.htm">Link</a>)</p></li>
-<li><p>Thi-Minh-Phuong Nguyen, Minh-Phuong Le, Thi-Tram Nguyen &amp; Thi-Lan-Anh Tran (2016). “Assessing the Impacts of Tariff Commitments of Trans-Pacific Partnership Agreement on Vietnam Fisheries sector”. <em>VNU Journal of Science: Economics and Business</em> Vol. 32, No.&nbsp;5E.</p></li>
-</ul>
+<section id="peer-reviewed-journal-articles" class="level3">
+<h3 class="anchored" data-anchor-id="peer-reviewed-journal-articles">Peer-reviewed journal articles</h3>
+<ol type="1">
+<li><p>Minh-Phuong Le, Lisa Chauvet &amp; Mohamed Ali Marouani (2024). “<em>The Great Lockdown and the Small Business: How did the Covid-19 crisis affect Tunisian SMEs?</em>” <em>World Development</em>, Vol. 182, Article 106673. <em>(Rank A, CNU 05)</em> (<a href="https://doi.org/10.1016/j.worlddev.2024.106673">Link</a>)</p></li>
+<li><p>Minh-Phuong Le &amp; Mohamed Ali Marouani (2021). “<em>Le fardeau des travailleurs vulnérables dans les pays en développement: une évaluation des effets du confinement en Tunisie</em>”. <em>Revue d’économie du développement</em>, Vol. 29, pp.&nbsp;85–110. <em>(Rank B, CNU 05)</em> (<a href="https://www.cairn.info/revue-d-economie-du-developpement-2021-1-page-85.htm">Link</a>)</p></li>
+</ol>
 </section>
-<section id="works-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="works-in-progress">Works in progress</h2>
-<ul>
-<li><p>Federica Alfani, Esther Delesalle, Minh-Phuong Le &amp; Mohamed Ali Marouani. “<em>Forced to migrate in a warming world: Labor migration responses to drought-induced shocks in Tunisia.</em>”</p></li>
-<li><p>Jean-Baptiste Guiffard &amp; Minh-Phuong Le. “<em>Measuring AI substitutability and complementarity in developing countries’ labor markets: Evidence from online job postings data.</em>”</p></li>
-<li><p>Minh-Phuong Le &amp; Jean-Baptiste Guiffard. “<em>Partner with AI or Get Replaced?</em>”</p></li>
-</ul>
+<section id="book-chapter" class="level3">
+<h3 class="anchored" data-anchor-id="book-chapter">Book chapter</h3>
+<ol start="3" type="1">
+<li>Le, M.-P., Marouani, M.A.&nbsp;&amp; Marshalian, M. (2023). “<em>Tunisia: Employment and Inequality Trends</em>”, in Gradín, C., Lewandowski, P., Schotte, S. &amp; Sen, K. (Eds.). <em>Tasks, Skills, and Institutions: The Changing Nature of Work and Inequality</em>. Oxford University Press. WIDER Studies in Development Economics. (<a href="https://doi.org/10.1093/oso/9780192872241.001.0001">Link</a>)</li>
+</ol>
 </section>
-<section id="conferences" class="level2">
-<h2 class="anchored" data-anchor-id="conferences">Conferences</h2>
+</section>
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<ol type="1">
+<li><p>Minh-Phuong Le, Esther Delesalle, Mohamed Ali Marouani &amp; Federica Alfani. “<em>When Climate Shapes Migration at Both Origin and Destination: Evidence from Tunisia</em>”. Submitted to <em>Journal of Environmental Economics and Management</em>. <em>(Rank A, CNU 05)</em></p></li>
+<li><p>Minh-Phuong Le. “<em>Credit Subsidy in Times of Crisis: A Micro-Analysis of Vietnam</em>”.</p></li>
+<li><p>Marouani, M.A., Le Minh, P. &amp; Cheikh, N.B. (2022). “<em>Do Social Protection Programs Improve Health Related Outcomes of the Poor in Tunisia?</em>” Economic Research Forum Working Papers, No.&nbsp;1579. (<a href="https://erf.org.eg/app/uploads/2022/09/1663594556_997_445362_1579.pdf">Link</a>)</p></li>
+</ol>
+</section>
+<section id="seminars-and-conferences" class="level2">
+<h2 class="anchored" data-anchor-id="seminars-and-conferences">Seminars and Conferences</h2>
 <ul>
-<li><p>Federica Alfani, Esther Delesalle, Minh-Phuong Le &amp; Mohamed Ali Marouani (2025). “Agricultural and migration responses to drought-induced shocks in Tunisia”. <em>ERF 31st Annual Conference: Youth, Demographic Dividend, Migration, Economic Challenges &amp; Opportunities in MENA</em>.</p></li>
-<li><p>Minh-Phuong Le, Lisa Chauvet &amp; Mohamed Ali Marouani (2023). “The Great Lockdown and the Small Business: How did the Covid-19 crisis affect Tunisian SMEs?”. <em>ERF 29th Annual Conference: The Future of MENA Development Path: Risks and Opportunities in an Emerging World Order</em>, Egypt.</p></li>
-<li><p>Mohamed Ali Marouani &amp; Minh-Phuong Le (2023). “The Dynamics of Earnings Inequality in Revolution Times”. <em>ERF 29th Annual Conference: The Future of MENA Development Path: Risks and Opportunities in an Emerging World Order</em>, Egypt.</p></li>
-<li><p>Minh-Phuong Le, Lisa Chauvet &amp; Mohamed Ali Marouani (2023). “The Great Lockdown and the Small Business: How did the Covid-19 crisis affect Tunisian SMEs?” <em>Journées Doctorales du Développement de l’AFEDEV</em>, France.</p></li>
-<li><p>Mohamed Ali Marouani, Minh-Phuong Le &amp; Nidhal Ben Cheikh (2022). “Do Social Protection Programs Improve Health Related Outcomes of the Poor in Tunisia?” <em>ERF Policy Conference on The Social Protection System in Tunisia</em>, Tunis.</p></li>
-<li><p>Mohamed Ali Marouani &amp; Minh-Phuong Le (2022). “The Role of Public Employment and Wage Policy in the Dynamic of Earnings Inequality: The Tunisian perspective”. <em>UNU-WIDER Development Conference: Reducing inequality — the great challenge of our time</em>, Columbia.</p></li>
-<li><p>Mohamed Ali Marouani, Minh-Phuong Le &amp; Michelle Marshalian (2020). “Jobs, earnings, and routine-task occupational change in times of Revolution: The Tunisian perspective”. <em>3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference: Better Jobs for Development</em>, Online.</p></li>
+<li><strong>2025</strong> — LERN’s External Seminar, Université de Rouen Normandie (France).</li>
+<li><strong>2025</strong> — ERF 31st Annual Conference: Youth, Demographic Dividend, Migration, Economic Challenges &amp; Opportunities in MENA (Egypt).</li>
+<li><strong>2023</strong> — ERF 29th Annual Conference: The Future of MENA Development Path (Egypt).</li>
+<li><strong>2023</strong> — Journées Doctorales du Développement de l’AFEDEV (France).</li>
+<li><strong>2022</strong> — ERF Policy Conference on “The Social Protection System in Tunisia” (Tunisia).</li>
+<li><strong>2022</strong> — UNU-WIDER Development Conference “Reducing Inequality” (Colombia).</li>
+<li><strong>2021</strong> — 3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference (online).</li>
 </ul>
 
 
@@ -399,13 +412,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -420,7 +434,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

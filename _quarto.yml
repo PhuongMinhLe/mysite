@@ -1,3 +1,7 @@
+project:
+  type: website
+  output-dir: docs
+
 website:
   title: "Le Minh Phuong"
   navbar:
@@ -13,7 +17,6 @@ website:
         href: CV_PhuongLE.pdf
   page-navigation: true
   site-url: /
-
 format:
   html:
     theme:
