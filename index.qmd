@@ -1,5 +1,5 @@
 ---
-title: "Le Minh Phuong"
+title: "Minh-Phuong Le"
 image: img_Phuong.jpg
 about: 
   template: trestles
@@ -20,7 +20,5 @@ about:
 I am an applied economist working on climate migration, labor markets, firm behaviors and policy evaluation in developing countries.
 
 Currently a consultant at the World Bank, I work on several expert assignments in Tunisia and Djibouti, covering migration dynamics, gender inequalities in the labor market, and the targeting of social transfers. I am also an associate researcher at the Joint Research Unit Development and Societies (UMR D&S) and qualified as a Maître de Conférences in Economics (CNU section 05, 2025–2029).
-
-My research lies at the intersection of development economics, labor economics, and environmental economics. Holding a PhD in Economics from Université Paris 1 Panthéon-Sorbonne, my dissertation examined how external shocks — financial crisis, political uprising, and pandemic — affect firm vulnerability and labor markets in developing countries. 
 
 My current research focuses on climate migration and its consequences: how climate shocks shape internal and international migration decisions, and how forced displacement affects host communities. In parallel, I extend my work on labor market wage inequality by examining the impact of digitalization on skill and qualification demand in developing countries, using an original job posting database constructed through web scraping. My work mobilizes causal identification strategies and exploits a variety of data sources — exhaustive censuses, dedicated migration surveys, and satellite climate data.\

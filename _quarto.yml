@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Le Minh Phuong"
+  title: "Minh-Phuong Le"
   navbar:
     background: primary
     left:
