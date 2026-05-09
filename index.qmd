@@ -17,8 +17,8 @@ about:
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAABit09LAAAAQUlEQVR42mNgIBdkF5b+B2GiFOFVjK4Iq2JcilAUE1IEV/yfSMAwFABJviakCO5rfIoxggabYpzhh6yYYCBTHBMAs1jacRPuSTQAAAAASUVORK5CYII=){alt=""}
 
-I am an applied economist working on climate migration, labor markets and firm behaviors in developing countries.
+I am an applied economist working at the intersection of development and labor economics.
 
-Currently a consultant at the World Bank, I work on several expert assignments in Tunisia and Djibouti, covering migration dynamics, gender inequalities in the labor market, and the targeting of social transfers. I am also an associate researcher at the Joint Research Unit Development and Societies (UMR D&S) and qualified as a Maître de Conférences in Economics (CNU section 05, 2025–2029).
+Currently a consultant at the World Bank, I work on several expert assignments in Tunisia and Djibouti, covering migration dynamics, gender inequalities in the labor market, and the targeting of cash transfers. I am also an associate researcher at the Joint Research Unit Development and Societies (UMR D&S, Paris 1 Panthéon-Sorbonne University - French National Research Institute for Sustainable Development) and have been qualified for a Maître de Conférences in Economics (CNU section 05, 2025–2029).
 
-My ongoing research focuses on climate migration and its consequences: how climate shocks shape internal and international migration decisions, and how forced displacement affects host communities. In parallel, I extend my work on job polarization and wage inequality by examining the impact of digitalization on skill and qualification demand in developing countries, using an original job posting database constructed through web scraping.\
+My ongoing research focuses on climate migration: how climate shocks shape internal and international labor migration decisions, and how international migration policies influence these decisions. In parallel, I extend my work on job polarization and wage inequality by examining the impact of artificial intelligence on task and skill demand in developing countries, using an original job-posting database collected through web scraping.\

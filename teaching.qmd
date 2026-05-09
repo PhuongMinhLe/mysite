@@ -2,6 +2,8 @@
 
 Since 2022, I have been teaching Master's-level courses as a non-tenured teaching and research fellow (ATER) and adjunct faculty (vacataire) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and the University of Rouen Normandy. Topics cover econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
 
+Since 2022, I have taught Master's-level courses as a non-tenured teaching and research fellow (ATER) and adjunct faculty member (vacataire) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and at the Faculty of Law, Economics and Political Science (University of Rouen). Courses covered econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
+
 ### Methodology Courses
 
 **Applied Microeconometrics** — Lecture (M2, LERN)\
@@ -22,7 +24,7 @@ Covers data collection and estimation methods beyond standard linear models, inc
 **Quantitative Analysis: Inference, Causality and Rationality** — Lecture & Tutorial (M1, IEDES)\
 *2022–2023, 2023-2024 · 22 students · 21 hours*\
 Assessment: final exam\
-Introduces economists and non-economists to quantitative methods in social sciences, covering probability, descriptive statistics, linear regression, and instrumental variables. Upon completing this course, students are able to describe data numerically and graphically, read and interpret quantitative articles, and use observational data for causal inference.
+Introduces students in social sciences to quantitative methods, covering probability, descriptive statistics, linear regression, and instrumental variables. Upon completing the course, students are able to describe data numerically and graphically, read and interpret quantitative articles, and use observational data for causal inference.
 
 **Tutored Project** — Lecture (M1, IEDES)\
 *2022–2023 · 8 students · 18 hours*\
