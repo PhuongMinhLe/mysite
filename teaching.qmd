@@ -1,12 +1,10 @@
 ## Teaching Experience
-
-Since 2022, I have been teaching Master's-level courses as a non-tenured teaching and research fellow (ATER) and adjunct faculty (vacataire) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and the University of Rouen Normandy. Topics cover econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
-
-Since 2022, I have taught Master's-level courses as a non-tenured teaching and research fellow (ATER) and adjunct faculty member (vacataire) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and at the Faculty of Law, Economics and Political Science (University of Rouen). Courses covered econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
+ 
+Since 2022, I have taught Master's-level courses as a non-tenured teaching and research fellow (ATER) and adjunct faculty member (vacataire) at the Institut d'études du développement de la Sorbonne (IEDES, Paris 1 Panthéon-Sorbonne University) and at the Faculty of Law, Economics and Political Science (UFR DESP, University of Rouen). Courses covered econometrics, impact evaluation, programming, development measurement, data analysis, vulnerability, and risk management. Further details are provided below.
 
 ### Methodology Courses
 
-**Applied Microeconometrics** — Lecture (M2, LERN)\
+**Applied Microeconometrics** — Lecture (M2, UFR DESP)\
 *2025–2026 · 5 students · 20 hours*\
 Assessment: final exam\
 Covers causal inference methods from both a theoretical and applied perspective, including randomization, matching, difference-in-differences, and regression discontinuity, with practical sessions in R.
